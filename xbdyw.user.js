@@ -93,7 +93,7 @@
         'ПК': 'DESKTOP',
         'Мобильные и планшеты': 'MOBILE_AND_TABLET',
         'Только мобильные': 'MOBILE',
-        'Планшеты': 'TABLET'
+        'Только планшеты': 'TABLET'
     };
 
     async function fetchSearchQueries(deviceType, orderBy, dateFrom, dateTo, updateProgress) {
